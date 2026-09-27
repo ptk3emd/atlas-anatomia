@@ -1,0 +1,8 @@
+{
+  "name": "ApexMed · Atlas Anatômico 3D",
+  "description": "Atlas anatômico 3D interativo ApexMed. Explore estruturas anatômicas, sistemas orgânicos e dissecação tridimensional com precisão clínica e design cockpit médico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
